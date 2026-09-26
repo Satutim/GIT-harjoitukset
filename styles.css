@@ -23,13 +23,14 @@ button {
 }
 
 #datetime {
-    background-color: white;
+    background-color: #d9ead9;
     width: 300px;
     margin: auto;
-    border: 1px solid grey;
+    border: 2px solid #9bbb9b;
 }
+
 body {
-  background-color: #ffffff;
-  opacity: 1;
-  background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #ffffff 40px ), repeating-linear-gradient( #FAF0E655, #FAF0E6 );
+    background-color: #e8f1e8;
+    opacity: 1;
+    background-image: repeating-radial-gradient(circle at 0 0, transparent 0, #ffffff 40px), repeating-linear-gradient(#FAF0E655, #FAF0E6);
 }
